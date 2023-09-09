@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+}
+
+.poster {
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'libre Baskerville', cursive;
+    text-transform: uppercase ;
+}
+p{
+    text-transform: capitalize;
+}
